@@ -8,7 +8,7 @@
 
 <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 <script src="js/bootstrap.js"></script>
-<title>JSP 실시간 회원제 채팅 서비스</title>
+<title>JSP 실시간 회원제 채팅 서비스zzzzzzz</title>
 </head>
 <body>
 	<%
